@@ -1,0 +1,528 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The poor man, the merchant, and the king, or, The king's brother, his wife sentence for the poor man.  To the tune of King and poor northern men</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09751</idno>
+            <idno type="STC">Wing P2864</idno>
+            <idno type="STC">ESTC R181937</idno>
+            <idno type="EEBO-CITATION">64551562</idno>
+            <idno type="OCLC">ocm 64551562</idno>
+            <idno type="VID">184703</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09751)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184703)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2870:46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The poor man, the merchant, and the king, or, The king's brother, his wife sentence for the poor man.  To the tune of King and poor northern men</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Charles Tyus on London-Bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: broadside has faded print.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:184703:1" rendition="simple:additions"/>
+            <pb facs="tcp:184703:2"/>
+            <head>The poor man, the Merchant, and the King; OR, The King's brother, his wiſe Sentence for the poor Man. </head>
+            <opener>To the Tune of King and poor northern Man.</opener>
+            <lg>
+               <l>IT was my chance as I did walk</l>
+               <l>a hiſtory for to read,</l>
+               <l>
+                  <hi>Solomon</hi> wiſe, when he reign'd King,</l>
+               <l>did many a worthy deed</l>
+            </lg>
+            <lg>
+               <l>Many a Statute be caus'd <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o be made,</l>
+               <l>and this was one amongſt them all,</l>
+               <l>It's treaſon for a man to find out a mans loſſe,</l>
+               <l>and not to reſtore it to the right owner again.</l>
+            </lg>
+            <lg>
+               <l>As it chanced there was a rich Merchant,</l>
+               <l>as he was riding to the market town;</l>
+               <l>It was his fortune to loſe his purſe,</l>
+               <l>and in it there was an hundred pound.</l>
+            </lg>
+            <lg>
+               <l>Proclamation becaus'd to be made</l>
+               <l>if any man could find it plain,</l>
+               <l>Reſtore to him without any doubt.</l>
+               <l>and they ſhould have twenty pound for their pain.</l>
+            </lg>
+            <lg>
+               <l>As it chanced there were a ſill<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> poor man</l>
+               <l>with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wo ſheep skins on <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is back to ſell,</l>
+               <l>It was his fortune to fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d this purſe</l>
+               <l>and he took i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> up and he lik'd it well.</l>
+            </lg>
+            <lg>
+               <l>When he had took it up into his hand</l>
+               <l>he needs muſt ſée what in it he w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uld,</l>
+               <l>The ſum of money he could not u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſtand,</l>
+               <l>bec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſe there was n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ught in the purſe but gold.</l>
+            </lg>
+            <lg>
+               <l>Thou horſon villain then ſaid the March<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt</l>
+               <l>I think it is thou that haſt found m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> purſe,</l>
+               <l>Why wilt thou not reſtore it to me ag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in.</l>
+               <l>which if thou do not thou ſhalt fare the worſe</l>
+            </lg>
+            <lg>
+               <l>My liegh q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oth be I found ſuch a pu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe,</l>
+               <l>and gladly to you I'le make it known,</l>
+               <l>You may have it again it is never the worſe,</l>
+               <l>pay me for the finding and that's my own.</l>
+            </lg>
+            <lg>
+               <l>Let me ſée what's in it then ſaid the M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rchant</l>
+               <l>he found an hundred pound and no more,</l>
+               <l>Thou horſon villain thou haſt payd thy ſelf</l>
+               <l>for in my purſe there was full ſix ſcore.</l>
+            </lg>
+            <lg>
+               <l>But before the King thou ſhalt be brought,</l>
+               <l>I warrant you when I come before our King,</l>
+               <l>He w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll not reward me of with nought</l>
+               <l>as you your ſelfe thought to have done.</l>
+            </lg>
+            <lg>
+               <l>As they were leading him towards the King,</l>
+               <l>and as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey were going on the way,</l>
+               <l>There they did méet with a gallant Knight</l>
+               <l>and with him was his Lady gay.</l>
+            </lg>
+            <lg>
+               <l>With hugging and tugging this ſilly poor man</l>
+               <l>his Leather skins they began to crack,</l>
+               <l>The g<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ding was wanton and leap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</l>
+               <l>and caſt the fair Lady quite on her b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ck.</l>
+            </lg>
+            <lg>
+               <l>The Lady fell down and got a great <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ones,</l>
+               <l>no <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in at all the poor man did mean,</l>
+               <l>The Lady did light upon the ground<g ref="char:punc">▪</g>
+               </l>
+               <l>and a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ub hath ſtruck out one of her <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yne.</l>
+            </lg>
+            <lg>
+               <l>The Kni<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ht would néeds upon him have been,</l>
+               <l>now ſtay quoth y<hi rend="sup">e</hi> Merchan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; that is a wrong,</l>
+               <l>I have an <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ction already againſt him</l>
+               <l>to go the King and he is ſure to hang.</l>
+            </lg>
+            <lg>
+               <l>As they were leading him towards the King,</l>
+               <l>the poor man he lik'd not of being le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> doub<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</l>
+               <l>But at a ſea clift he had thought to have ſcap'd,</l>
+               <l>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d to have ſav'd both himſelf and them trouble.</l>
+            </lg>
+            <lg>
+               <l>As he was leaping at the Sea clift</l>
+               <l>thinking no harm at al, Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wor,</l>
+               <l>He met two fiſhe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s bou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d to Sea</l>
+               <l>and the leap broke one of their necks in the boat.</l>
+            </lg>
+            <lg>
+               <l>The other would needs upon him have been,</l>
+               <l>now ſtay quot<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rchant that is w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ang,</l>
+               <l>We have two actions alread<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> againſt him</l>
+               <l>and to go to the King he is ſure to be hang'd.</l>
+            </lg>
+            <lg>
+               <l>As they were leading him towards the King,</l>
+               <l>and as they went to the gallery gay,</l>
+               <l>Here is ſuch a villain then ſaid the Merchant.</l>
+               <l>as came not before you this many a day.</l>
+            </lg>
+            <lg>
+               <l>It was my chance to loſe my purſe,</l>
+               <l>and in it was there p unds full ſix ſcore,</l>
+               <l>The villain wil not give me an hundred again</l>
+               <l>unleſs I woold give twenty more.</l>
+            </lg>
+            <lg>
+               <l>I have worſe and that then ſaid the Knight,</l>
+               <l>I know not what the villain did me<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</l>
+               <l>He caus'd my golding to fling my Lady</l>
+               <l>and a ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ub hath ſtruck out one of her eyne.</l>
+            </lg>
+            <lg>
+               <l>I have worſe and that then ſaith the Fiſher,</l>
+               <l>I may ſigh and ſay alas God wor,</l>
+               <l>He met with me &amp; my brother was bound to the ſea</l>
+               <l>and the leap broke my brothers neck in the boat.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Solomon</hi> wiſe he turn'd him about</l>
+               <l>he was not adv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſed in every thing,</l>
+               <l>Never ſuch thrée actions came before me</l>
+               <l>never ſince I was crowned King.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Marquis</hi> his brother he was there,</l>
+               <l>I pray you good brother theſe thrée you do ſea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>I pray you good brother turn them over to mée</l>
+               <l>and their cauſes I ſoon will c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ear.</l>
+            </lg>
+            <div type="song_part">
+               <pb facs="tcp:184703:2" rendition="simple:additions"/>
+               <head>The ſecond Part to the ſame Tune.</head>
+               <lg>
+                  <l>With all my heart ſaid <hi>Solomon</hi> the wiſe.</l>
+                  <l>You may h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ve the judgement of them yet,</l>
+                  <l>He turn'd them over t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Marquis</hi> his brother,</l>
+                  <l>unto f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iner of them I would have them be quit.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Marquis</hi> heard their j<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dgements all,</l>
+                  <l>and every one ſet up his will,</l>
+                  <l>Come hither po<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r man, nome hither to me,</l>
+                  <l>and let me hear what thou canſt ſay for thy ſelf.</l>
+               </lg>
+               <lg>
+                  <l>My Leach quoth the poor man, then touching this matter</l>
+                  <l>As I was bound to the market town,</l>
+                  <l>It was my fortune to find this purſe</l>
+                  <l>and in it there was an hundred pound.</l>
+               </lg>
+               <lg>
+                  <l>A proclamation be caus'd to be made</l>
+                  <l>if any man could find it again,</l>
+                  <l>Reſtore it to him without any doubt</l>
+                  <l>&amp; they ſhould have twenty pounds for their pains.</l>
+               </lg>
+               <lg>
+                  <l>Where is thy witneſs ſaid the <hi>Marquis?</hi>
+                  </l>
+                  <l>I pray you let u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hear him ſoon?</l>
+                  <l>Here is the M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rchant's own man,</l>
+                  <l>and carries the meſſage from town to town.</l>
+               </lg>
+               <lg>
+                  <l>The Merchant's man then he was call'd,</l>
+                  <l>he ſwore there was an hundred pound &amp; no more;</l>
+                  <l>And how his Maſter profered twenty pound,</l>
+                  <l>to any that would to him his purſe reſtore.</l>
+               </lg>
+               <lg>
+                  <l>Saith <hi>Marquis</hi> this ſhall be my judgement ſtraight</l>
+                  <l>yea, and perhaps you will think it ſtrange,</l>
+                  <l>Thou ſhalt follow him in the héels every day,</l>
+                  <l>untill thou do find ſuch a bill of Exchange.</l>
+               </lg>
+               <lg>
+                  <l>And then kéep it to thy ſelf &amp; never give't him again</l>
+                  <l>now God forbid then quoth the Merchant,</l>
+                  <l>How ſhould I find a hundred paund of this</l>
+                  <l>that never had a hundred greats to loſe.</l>
+               </lg>
+               <lg>
+                  <l>I had rather give him twenty more,</l>
+                  <l>if ſo betyde you would let me ſtay,</l>
+                  <l>Pay down the mon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y then quoth the <hi>Marquis,</hi>
+                  </l>
+                  <l>ſo mayſt thou quietly go thy way.</l>
+               </lg>
+               <lg>
+                  <l>Now poor man how hindreſt thou this Knight?</l>
+                  <l>thou muſt néeds make him amends I win,</l>
+                  <l>This is againſt all Laws and Kights,</l>
+                  <l>the Lady lacke the one of her eyen.</l>
+               </lg>
+               <lg>
+                  <l>Haſt thou not a wife at home with two ey<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s plain,</l>
+                  <l>yea my Liege <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n honeſt poor woman,</l>
+                  <l>And for her living doth take great pains,</l>
+                  <l>as any one doth in all the town,</l>
+               </lg>
+               <lg>
+                  <l>This ſhall be my judgement ſtraight,</l>
+                  <l>yea and perhaps you will think it ſtrange;</l>
+                  <l>The wife with two eyes and the Lady with one</l>
+                  <l>and as thou hall dreſt her thou ſhalt exchange.</l>
+               </lg>
+               <lg>
+                  <l>Now God forbid then quoth the Knight</l>
+                  <l>that ever ſo bad ſhould be my choyce,</l>
+                  <l>I had rather give him an hundred pound,</l>
+                  <l>then to be troubles with his damn'd wife.</l>
+               </lg>
+               <lg>
+                  <l>Pay down thy money then quoth the <hi>Marquis,</hi>
+                  </l>
+                  <l>ſo mayſt thou be going within a while,</l>
+                  <l>The Fiſher for fear he ſhould be call'd,</l>
+                  <l>he was run away halfe a quarter of a mile;</l>
+               </lg>
+               <lg>
+                  <l>Was not there a third man then ſaid the <hi>Marquis?</hi>
+                  </l>
+                  <l>I pray let us hear what he can ſay?</l>
+                  <l>My Leige quoth they he was here even now,</l>
+                  <l>but as faſt as he can he is run away.</l>
+               </lg>
+               <lg>
+                  <l>I pray let him be called b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ck again,</l>
+                  <l>if ſo betyde he be in the fight;</l>
+                  <l>It's never be ſaid you came before me,</l>
+                  <l>but every man ſhall have his right.</l>
+               </lg>
+               <lg>
+                  <l>Now Fiſher what made thee to run away?</l>
+                  <l>my Liege quoth he I had a great way home;</l>
+                  <l>And I thought it was time to pack away,</l>
+                  <l>having ſpent the moſt of my coyne.</l>
+               </lg>
+               <lg>
+                  <l>Saith this ſhall be thy judgement ſtraight,</l>
+                  <l>yea and perhaps you will think it ſtrange;</l>
+                  <l>Thou ſhalt ſet thy beat in the ſame ſtead,</l>
+                  <l>and thou ſhalt leap at him by way of Exchange.</l>
+               </lg>
+               <lg>
+                  <l>So mayſt thou quit thy brothtrs death,</l>
+                  <l>now God forbid then quoth the Fiſher;</l>
+                  <l>That ever ſo bad ſhould be my chance,</l>
+                  <l>I ſhal either be drown'd or it wil cauſe me ſwound</l>
+               </lg>
+               <lg>
+                  <l>I had rather give him twenty pounds,</l>
+                  <l>I am ſorry my Liege that I came hither:</l>
+                  <l>Pay down thy money then quoth the <hi>Marquis,</hi>
+                  </l>
+                  <l>ſo may you be packing all fools together.</l>
+               </lg>
+               <lg>
+                  <l>Theſe thrée they could not well agree,</l>
+                  <l>but each fell out with one another,</l>
+                  <l>They ſaid they would never come before our King,</l>
+                  <l>as long as he was in company of <hi>Marquis's</hi> brother.</l>
+               </lg>
+               <lg>
+                  <l>The poor man he was well content,</l>
+                  <l>and well pleaſed in every thing;</l>
+                  <l>He ſaid he car'd not how oft he came</l>
+                  <l>before the Majeſty of our King.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for <hi>Charles Tyus</hi> on London-Bridge.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
